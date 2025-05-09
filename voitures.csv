@@ -1,0 +1,401 @@
+Marque,Modèle,Année,Boîte,KM,Énergie,Code Postal,Département,Prix
+Citroen,c4 picasso,02-2008,Boîte manuelle,190000,d,93250,93,1000
+Renault,clio,10-2012,Boîte manuelle,131925,b,57500,57,3490
+Chevrolet,aveo,01-2014,Boîte manuelle,54000,b,67520,67,5490
+Peugeot,5008,02-2016,Boîte manuelle,170700,d,95880,95,7490
+Peugeot,308,03-2009,Boîte manuelle,160000,d,94190,94,3990
+Peugeot,e-208,04-2020,- Boîte,35000,e,54800,54,6900
+Toyota,yaris,03-2011,Boîte manuelle,160000,d,59119,59,4990
+Volkswagen,polo,12-2015,Boîte automatique,92000,d,62218,62,7990
+Peugeot,307,06-2007,Boîte manuelle,345000,d,93220,93,990
+Renault,scenic,09-2013,Boîte manuelle,138000,b,94190,94,4990
+Audi,a5,05-2012,Boîte automatique,222000,d,77144,77,12990
+Peugeot,208,06-2018,Boîte manuelle,93000,b,13200,13,5200
+Dacia,spring,12-2023,Boîte automatique,14000,e,59110,59,10990
+Jaguar,xe,11-2017,Boîte automatique,103451,d,71000,71,14990
+Bmw,118,05-2009,Boîte manuelle,193000,d,63300,63,5990
+Opel,crossland x,10-2019,Boîte manuelle,119054,b,75002,75,7990
+Peugeot,3008,09-2019,Boîte manuelle,92397,b,33140,33,10990
+Fiat,500,06-2009,Boîte manuelle,85000,b,63170,63,4990
+Aixam,unknown,07-2019,Boîte automatique,33000,d,93800,93,4900
+Renault,clio,04-2006,Boîte manuelle,229000,d,83170,83,2390
+Peugeot,3008,12-2010,Boîte manuelle,206600,d,62230,62,3990
+Nissan,note,07-2013,Boîte manuelle,132543,d,12500,12,990
+Peugeot,e-208,04-2020,- Boîte,137000,e,54800,54,7900
+Dacia,spring,05-2023,Boîte automatique,23606,e,83210,83,9480
+Renault,modus,07-2010,Boîte manuelle,165000,d,95110,95,2990
+Renault,kangoo,05-2006,Boîte manuelle,119800,d,59273,59,5500
+Citroen,c5,09-2011,Boîte automatique,52800,d,93250,93,11990
+Volkswagen,touareg,12-2005,Semi-automatique,251000,d,91150,91,3490
+Ferrari,12 cilindri,new,Boîte automatique,100,b,83600,83,595000
+Volkswagen,golf,12-2010,Boîte manuelle,114950,b,62000,62,6450
+Nissan,juke,08-2011,Boîte manuelle,203800,d,06670,06,4990
+Audi,a3,07-2011,Boîte manuelle,235000,d,93800,93,4990
+Audi,a5,05-2017,Boîte automatique,210000,d,54700,54,18490
+Volkswagen,tiguan,12-2014,Boîte manuelle,182000,d,63360,63,11900
+Mitsubishi,l200,04-2015,Boîte manuelle,107000,d,94500,94,10950
+Bmw,118,09-2010,Boîte manuelle,194967,d,67114,67,5490
+Nissan,nv200,04-2019,Boîte automatique,167000,e,93800,93,8490
+Dacia,sandero,01-2015,Boîte manuelle,93000,b,57350,57,3999
+Land rover,discovery sport,07-2016,Boîte automatique,84000,d,71300,71,13750
+Dacia,duster,06-2013,Boîte manuelle,0,d,93370,93,5490
+Citroen,c4,02-2008,Boîte manuelle,125560,d,60870,60,5490
+Jaguar,xe,02-2016,Boîte automatique,138252,d,72650,72,13990
+Dacia,sandero,04-2016,Boîte manuelle,110000,d,33700,33,7990
+Peugeot,508,03-2013,Boîte automatique,236000,d,62218,62,4490
+Ford,edge,01-2017,Boîte automatique,166000,d,57500,57,15990
+Ford,fiesta,12-2015,Boîte manuelle,116000,b,26760,26,4990
+Audi,a5,03-2013,Boîte manuelle,175000,d,66000,66,12990
+Volkswagen,passat cc,06-2011,Boîte manuelle,220422,d,89470,89,6990
+Seat,alhambra,06-2004,Boîte manuelle,173916,d,57270,57,5999
+Lancia,phedra,05-2009,Boîte automatique,104658,d,57270,57,9999
+Citroen,c4 picasso,06-2008,Boîte manuelle,255036,d,69400,69,2590
+Dacia,sandero,04-2012,Boîte manuelle,168500,d,76700,76,4990
+Porsche,cayenne,10-2010,Boîte automatique,178000,b,49130,49,17990
+Renault,talisman,05-2016,Boîte manuelle,139000,d,63300,63,10990
+Mitsubishi,pajero,09-2008,Boîte automatique,145400,d,59243,59,8000
+Volkswagen,polo,10-2010,Boîte manuelle,151000,d,67520,67,6490
+Citroen,ds3,01-2013,Boîte manuelle,140000,b,38650,38,4500
+Toyota,auris,04-2010,Boîte manuelle,113636,b,59930,59,5990
+Peugeot,306,03-2001,Boîte manuelle,269525,d,67320,67,2790
+Ds automobiles,ds 5,03-2016,Boîte automatique,137000,b,21000,21,8990
+Peugeot,2008,10-2020,Boîte manuelle,95000,b,06276,06,10890
+Mercedes-benz,a 180,10-2018,Boîte automatique,115168,d,72650,72,20996
+Peugeot,2008,11-2018,Boîte manuelle,198221,d,92140,92,7490
+Audi,a3,12-2015,Boîte manuelle,193900,d,59223,59,10990
+Peugeot,5008,11-2015,Boîte automatique,155000,d,91150,91,7990
+Renault,zoe,12-2018,Boîte automatique,54881,e,28630,28,4990
+Toyota,rav 4,10-2014,Boîte automatique,154000,d,95200,95,12990
+Peugeot,2008,04-2016,Boîte manuelle,94555,b,75002,75,6990
+Audi,a1,02-2014,Boîte manuelle,165000,d,13200,13,8990
+Peugeot,207,06-2011,Boîte manuelle,152000,d,95110,95,3990
+Porsche,cayman,10-2015,Boîte manuelle,54900,b,35310,35,79900
+Dacia,sandero,03-2016,Boîte manuelle,128451,b,38000,38,4990
+Fiat,sedici,06-2010,Boîte manuelle,32900,d,17200,17,8990
+Peugeot,2008,01-2016,Boîte automatique,95500,b,88200,88,7490
+Volkswagen,tiguan,11-2016,Boîte manuelle,187000,d,62170,62,12980
+Peugeot,2008,05-2021,Boîte automatique,76860,b,62136,62,13990
+Citroen,ds5,04-2012,Boîte manuelle,257622,d,30600,30,6990
+Citroen,c3,08-2022,Boîte manuelle,65000,b,78310,78,8500
+Mercedes-benz,r 320,01-2007,Boîte automatique,181000,d,95110,95,7990
+Audi,q3,10-2014,Boîte manuelle,143000,d,13008,13,13500
+Nissan,370z,09-2010,Boîte manuelle,168000,b,57130,57,11990
+Mercedes-benz,a 200,06-2020,Boîte automatique,41900,d,06400,06,22900
+Mercedes-benz,e 220,03-2018,Boîte automatique,196000,d,92300,92,17600
+Peugeot,308,09-2009,Boîte manuelle,149925,d,92140,92,4590
+Seat,leon,01-2016,Boîte manuelle,248566,d,31150,31,8990
+Jaguar,xk8,06-2001,Boîte automatique,76664,b,93370,93,8990
+Audi,a5,02-2012,Boîte automatique,192000,d,63300,63,13990
+Land rover,discovery,05-2007,Boîte automatique,237350,d,93370,93,5990
+Audi,a4,09-2005,Boîte automatique,39500,d,93390,93,10990
+Skoda,yeti,02-2010,Boîte manuelle,67000,d,57500,57,9990
+Audi,sq5,07-2014,Boîte automatique,118517,d,77270,77,21990
+Volkswagen,polo,06-2011,Boîte manuelle,165000,d,62218,62,5990
+Citroen,c4 cactus,03-2015,Boîte manuelle,91000,b,54700,54,6990
+Bmw,418,10-2018,Boîte automatique,141000,d,63300,63,18000
+Bmw,330,05-2018,Boîte automatique,88900,o,78280,78,22900
+Renault,clio,10-2017,Boîte manuelle,105497,d,51100,51,6499
+Peugeot,207,11-2006,Boîte manuelle,238151,d,57490,57,2990
+Fiat,124 spider,04-2017,Boîte manuelle,43000,b,78410,78,20450
+Fiat,500l,05-2014,Boîte manuelle,181000,d,57270,57,5999
+Mercedes-benz,cl,05-2017,Boîte automatique,163000,d,06250,06,14000
+Volvo,xc60,11-2014,Boîte automatique,174900,d,67118,67,12490
+Volkswagen,golf,03-2019,Boîte automatique,113500,d,54425,54,14490
+Volkswagen,polo,06-2013,Boîte manuelle,201000,d,62218,62,4290
+Volkswagen,touran,02-2015,Boîte manuelle,127800,d,59110,59,13490
+Bmw,x6,04-2017,Boîte automatique,166463,d,91170,91,25900
+Renault,scenic,07-2014,Boîte manuelle,131513,b,75002,75,6290
+Renault,zoe,02-2015,Boîte automatique,96800,e,91120,91,4490
+Opel,crossland x,04-2019,Boîte manuelle,59300,b,68110,68,9999
+Mercedes-benz,a 200,02-2014,Boîte automatique,161982,d,75002,75,11990
+Mercedes-benz,gle 350,12-2017,Boîte automatique,188566,d,91170,91,25900
+Renault,twingo,03-2006,Boîte automatique,45000,b,35410,35,4990
+Audi,tt,01-2009,Boîte automatique,119233,unknown,51110,51,13990
+Audi,a4,11-2015,Boîte automatique,145602,d,72650,72,16498
+Ds automobiles,ds 5,07-2013,Boîte automatique,136000,d,31200,31,8990
+Peugeot,508,11-2015,Boîte automatique,178300,d,50190,50,7990
+Peugeot,208,12-2022,Boîte automatique,1138,b,93220,93,15990
+Fiat,500x,04-2021,Boîte manuelle,65000,d,93240,93,12990
+Opel,corsa,11-2000,Boîte automatique,175642,b,91320,91,2790
+Hyundai,accent,09-2002,Boîte manuelle,88927,b,13170,13,2990
+Peugeot,3008,10-2018,Boîte manuelle,160000,d,29000,29,11500
+Dacia,duster,12-2019,Boîte manuelle,69500,b,91150,91,10490
+Chrysler,300c,01-2010,Boîte automatique,106000,d,26760,26,12990
+Mercedes-benz,gla 180,04-2021,Boîte automatique,125000,d,54800,54,16900
+Nissan,navara,02-2012,Boîte automatique,120630,d,80480,80,18980
+Fiat,500l,07-2016,Boîte manuelle,49998,b,38000,38,4990
+Honda,cr-v,08-2019,Boîte automatique,134990,2,54700,54,18990
+Volkswagen,jetta,10-2012,Boîte manuelle,147000,d,95520,95,6900
+Volkswagen,golf,12-1999,Boîte manuelle,145000,b,38460,38,7990
+Citroen,c3,05-2019,Boîte manuelle,16000,b,13009,13,7990
+Citroen,ds5,01-2016,Boîte automatique,140000,d,53940,53,11990
+Mercedes-benz,e 300,07-2012,Boîte automatique,237850,d,06270,06,9990
+Ds automobiles,ds 5,10-2015,Boîte manuelle,166400,d,28630,28,9990
+Fiat,500x,08-2015,Boîte manuelle,167000,d,30132,30,7990
+Nissan,x-trail,08-2018,Boîte manuelle,125220,d,31150,31,14990
+Opel,zafira,09-2010,Boîte manuelle,134000,b,28630,28,5990
+Renault,clio,01-2019,Boîte manuelle,124917,d,94190,94,7990
+Renault,kadjar,07-2018,Boîte manuelle,115742,b,92130,92,10790
+Citroen,xantia,05-1999,Boîte manuelle,156400,d,50190,50,2990
+Land rover,range rover velar,12-2019,Boîte automatique,108000,d,13600,13,36900
+Peugeot,3008,03-2019,Boîte manuelle,86000,d,59494,59,15490
+Mercedes-benz,c 220,07-2014,Boîte manuelle,194500,d,69800,69,12790
+Dacia,sandero,12-2015,Boîte manuelle,158000,b,66000,66,3990
+Citroen,c3 aircross,06-2019,Boîte automatique,62452,b,75002,75,9390
+Bmw,118,03-2012,Boîte manuelle,94860,b,67100,67,9990
+Mercedes-benz,cla 220,04-2015,Boîte automatique,133600,d,95880,95,19490
+Nissan,leaf,12-2020,Boîte automatique,87916,e,21000,21,9999
+Renault,captur,03-2018,Boîte manuelle,60426,b,92130,92,10790
+Bmw,120,09-2018,Boîte automatique,99700,d,91150,91,21990
+Mercedes-benz,e 200,11-2012,Boîte manuelle,172000,d,57730,57,10990
+Audi,q5,04-2017,Boîte manuelle,184255,d,72650,72,18896
+Citroen,c4 cactus,05-2019,Boîte automatique,69005,b,63800,63,9990
+Volvo,xc90,05-2014,Boîte automatique,214920,d,54490,54,12990
+Volvo,v40,10-2014,Boîte manuelle,138000,d,59400,59,9480
+Renault,captur,11-2013,Boîte manuelle,128000,b,67118,67,6900
+Mercedes-benz,gle 350,05-2016,Boîte automatique,130000,d,77170,77,35990
+Volkswagen,polo,11-2016,Boîte manuelle,153000,d,76700,76,7990
+Peugeot,2008,09-2022,Boîte manuelle,17208,b,67800,67,16499
+Volkswagen,tiguan allspace,06-2018,Boîte manuelle,132000,d,57730,57,21990
+Mercedes-benz,cl,08-2011,Boîte automatique,119800,d,14130,14,13490
+Peugeot,208,04-2020,Boîte automatique,29000,b,69630,69,13490
+Chevrolet,express,01-1997,Boîte automatique,84000,b,60120,60,24990
+Renault,captur,02-2016,Boîte automatique,99500,b,42100,42,8990
+Mercedes-benz,gla 180,03-2018,Boîte automatique,92850,d,72650,72,19286
+Renault,kadjar,06-2018,Boîte manuelle,61157,b,92130,92,12390
+Citroen,c4 cactus,06-2019,Boîte automatique,39961,b,83490,83,10900
+Peugeot,5008,12-2017,Boîte automatique,151000,b,95110,95,13990
+Ds automobiles,ds 3,07-2013,Boîte manuelle,91500,b,67140,67,5990
+Peugeot,5008,10-2017,Boîte automatique,163000,b,78310,78,13990
+Citroen,c3,03-2012,Boîte manuelle,133278,d,59930,59,6490
+Audi,q3,10-2021,Semi-automatique,101010,d,06000,06,31900
+Mercedes-benz,cla 200,02-2016,Boîte manuelle,148921,d,72650,72,15865
+Renault,talisman,08-2018,Boîte automatique,110000,d,54700,54,15990
+Volkswagen,golf,06-2002,Boîte manuelle,330000,d,57350,57,1250
+Mercedes-benz,c 200,03-2003,Boîte automatique,200000,b,57350,57,2500
+Porsche,cayenne,03-2014,Boîte automatique,223586,d,91170,91,21800
+Volkswagen,passat cc,06-2009,Boîte automatique,131090,b,67118,67,8990
+Mercedes-benz,cls,06-2011,Boîte automatique,225200,d,59720,59,15990
+Renault,scenic,12-2019,Boîte automatique,166048,d,47300,47,9490
+Renault,captur,11-2013,Boîte manuelle,128000,b,67118,67,6900
+Mercedes-benz,a 180,11-2018,Boîte automatique,119990,d,45770,45,23790
+Mercedes-benz,a 180,11-2018,Boîte automatique,119990,d,45770,45,23790
+Fiat,500,08-2009,Boîte manuelle,163000,d,76160,76,4600
+Peugeot,208,05-2023,Boîte manuelle,20990,b,31200,31,12990
+Citroen,c3,02-2012,Boîte manuelle,177000,b,63300,63,4500
+Volkswagen,polo,01-2019,Boîte manuelle,48500,d,13009,13,13290
+Peugeot,3008,02-2017,Boîte manuelle,160000,d,14940,14,12490
+Audi,a3,01-2016,Boîte manuelle,166000,d,69630,69,10490
+Mercedes-benz,unknown,12-2014,Boîte automatique,100351,d,92130,92,18390
+Audi,q4 e-tron,02-2022,Boîte automatique,43032,e,75014,75,28680
+Mitsubishi,l200,04-2017,Boîte manuelle,162000,d,94500,94,12500
+Renault,megane,09-2021,Boîte automatique,83218,2,06480,06,13990
+Renault,megane,07-2019,Boîte manuelle,92600,d,67800,67,10990
+Renault,twingo,06-2009,Boîte manuelle,130000,b,67118,67,2990
+Opel,crossland x,06-2019,Boîte manuelle,63565,b,92130,92,10190
+Toyota,yaris,05-2025,Boîte manuelle,168900,b,87270,87,3950
+Mclaren,570s,06-2016,Boîte manuelle,34500,b,95800,95,132900
+Peugeot,208,12-2018,Boîte manuelle,38632,b,88220,88,6990
+Volkswagen,polo,05-2014,Boîte manuelle,157698,d,75002,75,7990
+Citroen,c1,03-2012,Boîte manuelle,38400,b,91120,91,5490
+Nissan,juke,02-2015,Boîte manuelle,158000,d,06700,06,6300
+Audi,a5,01-2014,Boîte manuelle,152482,b,59930,59,12990
+Peugeot,3008,04-2019,Boîte manuelle,38000,b,13700,13,12490
+Renault,clio,10-1995,Boîte automatique,140000,b,57350,57,1500
+Bmw,x5,05-2015,Boîte automatique,145000,d,25300,25,26490
+Peugeot,3008,12-2018,Boîte automatique,100500,b,68170,68,11990
+Volkswagen,golf,03-2014,Boîte manuelle,171000,d,59494,59,8990
+Mercedes-benz,glc 220,10-2017,Boîte automatique,73500,d,91120,91,24990
+Renault,talisman,05-2019,Boîte automatique,130000,d,54700,54,16990
+Mercedes-benz,a 35 amg,03-2021,Boîte automatique,30212,b,06000,06,49980
+Skoda,kamiq,06-2021,Boîte manuelle,78900,b,26800,26,14490
+Peugeot,3008,07-2018,Boîte manuelle,83000,d,59494,59,15490
+Peugeot,3008,04-2017,Boîte manuelle,123000,b,67800,67,9490
+Volkswagen,tiguan,12-2021,Boîte automatique,69500,d,67800,67,25990
+Audi,rs6,02-2020,Boîte automatique,71300,b,75016,75,105900
+Skoda,karoq,07-2019,Boîte manuelle,130000,b,81380,81,15290
+Mini,one,03-2010,Boîte manuelle,110000,b,63300,63,5990
+Opel,corsa,03-2009,Boîte manuelle,226801,d,30600,30,3490
+Mitsubishi,pajero,05-2010,Boîte automatique,322500,d,93370,93,12990
+Mazda,cx-5,08-2016,Boîte manuelle,158268,d,63800,63,10990
+Peugeot,208,03-2016,Boîte manuelle,128129,d,59930,59,6990
+Mitsubishi,pajero,05-2010,Boîte automatique,322500,d,93370,93,12990
+Mazda,cx-5,08-2016,Boîte manuelle,158268,d,63800,63,10990
+Peugeot,208,03-2016,Boîte manuelle,128129,d,59930,59,6990
+Alfa romeo,brera,04-2009,- Boîte,171766,d,39110,39,11900
+Mercedes-benz,a 250,12-2014,Boîte automatique,115100,b,17200,17,16990
+Nissan,qashqai,05-2017,Boîte automatique,89476,d,92130,92,14990
+Citroen,c3,02-2019,Boîte manuelle,106000,b,93370,93,6490
+Mazda,2,10-2019,Boîte manuelle,35000,b,25000,25,11490
+Renault,megane,05-2019,Boîte manuelle,96000,d,63170,63,11990
+Peugeot,e-2008,12-2020,Boîte manuelle,50134,b,08200,08,12999
+Audi,a1,01-2020,Boîte manuelle,80108,b,57160,57,14990
+Bmw,m8,03-2020,Boîte automatique,31890,b,75016,75,109900
+Fiat,500,02-2017,Boîte automatique,13000,b,04100,04,10990
+Ford,c-max,08-2013,Boîte manuelle,252000,d,13500,13,3790
+Renault,latitude,01-2011,Boîte automatique,101254,d,47160,47,11900
+Peugeot,208,12-2019,Boîte manuelle,49561,b,80090,80,8490
+Dacia,spring,12-2023,Boîte automatique,7120,e,75002,75,11590
+Renault,laguna,04-2013,Boîte manuelle,152502,d,88200,88,8490
+Dacia,sandero,12-2023,Boîte manuelle,3576,b,92130,92,12290
+Opel,mokka,09-2014,Boîte manuelle,70644,b,95520,95,9290
+Ferrari,458,06-2014,Boîte automatique,20612,b,69760,69,399000
+Peugeot,206,03-2010,Boîte manuelle,49995,d,67114,67,4990
+Peugeot,e-2008,12-2020,Boîte manuelle,42509,b,83490,83,12900
+Volkswagen,golf,01-2014,Boîte manuelle,134400,b,06600,06,9990
+Citroen,c1,03-2017,Boîte manuelle,123000,b,67100,67,5990
+Kia,rio,03-2012,Boîte manuelle,138000,d,45160,45,5490
+Porsche,cayenne,01-2024,Boîte automatique,27000,b,67800,67,77500
+Peugeot,3008,06-2012,Boîte automatique,217030,2,95880,95,5990
+Peugeot,208,06-2021,Boîte manuelle,57400,b,06370,06,11990
+Peugeot,2008,11-2020,Boîte manuelle,56350,b,13127,13,13890
+Mercedes-benz,cla 45 amg,05-2014,Boîte automatique,104500,b,42800,42,28990
+Mini,one,04-2008,Boîte manuelle,49000,b,35410,35,6990
+Lexus,gs 450h,05-2012,Boîte automatique,141000,o,06200,06,24990
+Opel,corsa,01-2011,Boîte manuelle,83700,b,67140,67,4990
+Peugeot,2008,02-2015,Boîte manuelle,127800,b,82130,82,6400
+Volkswagen,polo,05-2021,Boîte manuelle,62275,b,13710,13,16490
+Volkswagen,unknown,07-2009,Boîte manuelle,264100,d,67580,67,4990
+Citroen,grand c4 spacetourer,06-2020,Boîte automatique,284030,d,88200,88,8990
+Toyota,aygo,08-2008,- Boîte,168000,unknown,78440,78,3190
+Bmw,118,10-2013,Boîte automatique,194914,d,69400,69,8990
+Renault,twizy,02-2013,Boîte automatique,25350,e,06000,06,3990
+Nissan,qashqai,11-2016,Boîte manuelle,149000,b,60740,60,10990
+Opel,corsa,06-2011,Boîte manuelle,124000,b,63170,63,4490
+Hyundai,i20,12-2021,Boîte automatique,163260,2,19700,19,9480
+Volkswagen,tiguan,04-2017,Boîte automatique,203461,d,67201,67,16900
+Renault,kadjar,12-2019,Boîte automatique,59900,d,91150,91,16490
+Dacia,sandero,06-2021,Boîte manuelle,18200,l,77220,77,13790
+Seat,ibiza,08-2010,Boîte manuelle,148000,d,31150,31,6990
+Dacia,duster,11-2019,Boîte manuelle,66000,b,42100,42,11990
+Peugeot,508,08-2019,Boîte automatique,103617,d,25300,25,20990
+Peugeot,5008,01-2019,Boîte automatique,63267,b,92130,92,18090
+Volkswagen,golf,01-2014,Boîte manuelle,130000,d,69530,69,11490
+Volkswagen,cc,01-2014,Boîte manuelle,133840,b,88130,88,10960
+Peugeot,508,02-2020,Boîte automatique,85746,d,75002,75,16490
+Skoda,kodiaq,06-2022,Boîte automatique,320000,d,93800,93,19990
+Bmw,m3,01-2018,Boîte automatique,68500,b,35310,35,64900
+Nissan,qashqai,04-2019,Boîte manuelle,43500,d,60230,60,17999
+Ford,mustang,06-2019,Boîte automatique,11500,b,75016,75,56900
+Nissan,juke,02-2016,Boîte manuelle,86574,b,75002,75,8900
+Bmw,118,12-2017,Boîte automatique,65878,b,72650,72,17456
+Renault,zoe,03-2019,Boîte automatique,73572,e,68000,68,6499
+Volkswagen,golf,04-2016,Boîte manuelle,145500,d,57175,57,12990
+Suzuki,ignis,09-2018,Boîte manuelle,13725,b,91290,91,10950
+Renault,megane,10-2008,Boîte manuelle,175000,d,59119,59,4700
+Fiat,tipo,10-2017,Boîte automatique,167300,d,45770,45,8480
+Citroen,traction,10-2009,Boîte manuelle,140194,b,13710,13,2600
+Jeep,wrangler,10-1990,Boîte manuelle,95000,b,45770,45,19900
+Chevrolet,captiva,09-2012,Semi-automatique,135000,d,57175,57,10999
+Renault,espace,12-2015,Boîte automatique,120200,b,06800,06,13900
+Audi,q2,05-2017,Boîte manuelle,138356,d,92130,92,15790
+Infiniti,qx70,07-2015,Boîte automatique,29000,d,83340,83,28990
+Peugeot,308,10-2020,Boîte automatique,48450,b,10150,10,13900
+Renault,megane,02-2007,Boîte manuelle,229000,d,72470,72,3450
+Volkswagen,golf plus,08-2013,Boîte manuelle,71344,b,28630,28,6990
+Seat,ateca,01-2017,Boîte manuelle,151000,d,21850,21,13790
+Peugeot,2008,11-2015,Boîte manuelle,95746,b,08200,08,8499
+Citroen,c4 picasso,05-2016,Boîte manuelle,150048,d,75002,75,7990
+Peugeot,5008,05-2018,Boîte automatique,174500,d,13700,13,13990
+Volkswagen,golf,09-2019,Boîte automatique,90921,d,75002,75,15990
+Mercedes-benz,e 220,03-2017,Boîte automatique,119252,d,72650,72,28990
+Land rover,range rover evoque,12-2012,Boîte automatique,125000,d,74130,74,15500
+Bmw,118,02-2020,Boîte automatique,37000,d,66000,66,25490
+Porsche,cayenne,09-2011,Boîte automatique,213000,d,06110,06,16980
+Dacia,duster,11-2012,Boîte manuelle,189800,d,67118,67,6990
+Opel,crossland x,02-2019,Boîte automatique,81300,b,81380,81,10980
+Audi,a3,11-2016,Boîte manuelle,110000,d,63300,63,16990
+Volkswagen,tiguan,10-2008,Boîte manuelle,171700,d,38240,38,8390
+Renault,clio,09-2020,Boîte manuelle,85360,d,28630,28,8990
+Fiat,seicento,07-2001,Boîte manuelle,95070,b,83700,83,4990
+Honda,civic,09-2008,Boîte manuelle,152500,b,38660,38,12990
+Jaguar,f-type,05-2014,Boîte automatique,75000,b,93120,93,37900
+Opel,corsa,01-2023,Boîte manuelle,44000,b,59110,59,11990
+Volvo,s90,03-2017,Boîte automatique,152000,d,68000,68,20990
+Hyundai,tucson,07-2022,Boîte automatique,113000,2,78310,78,22990
+Audi,a5,07-2017,Boîte automatique,50735,d,72650,72,27295
+Mazda,mx-5,11-2002,Boîte manuelle,74240,b,59250,59,13780
+Toyota,rav 4,09-2016,Boîte automatique,105018,2,69008,69,17450
+Renault,scenic,01-2011,Boîte manuelle,92850,b,57200,57,5490
+Volkswagen,polo,02-2016,Boîte manuelle,124213,d,92800,92,10490
+Renault,clio,03-2023,Boîte manuelle,12500,b,13009,13,12990
+Toyota,rav 4,09-2016,Boîte automatique,105018,2,69008,69,17450
+Renault,scenic,01-2011,Boîte manuelle,92850,b,57200,57,5490
+Volkswagen,polo,02-2016,Boîte manuelle,124213,d,92800,92,10490
+Renault,clio,03-2023,Boîte manuelle,12500,b,13009,13,12990
+Land rover,freelander,12-2011,Boîte automatique,81349,d,38100,38,14990
+Bmw,x1,12-2017,Boîte manuelle,83255,d,72650,72,18490
+Maserati,quattroporte,12-2006,Boîte automatique,51900,b,57600,57,19980
+Peugeot,308,03-2019,Boîte automatique,112000,d,51420,51,16990
+Mini,cooper countryman,05-2012,Boîte manuelle,56500,b,06700,06,13000
+Volkswagen,tiguan,09-2023,Boîte automatique,46000,b,94500,94,25900
+Audi,q3,04-2021,Semi-automatique,77500,d,06000,06,36980
+Citroen,c6,07-2006,Boîte automatique,177000,b,68310,68,8999
+Bmw,m3,05-2010,Boîte manuelle,107000,b,92400,92,54000
+Renault,rapid,02-2018,Boîte automatique,66036,e,93220,93,5990
+Renault,trafic,08-2011,Boîte manuelle,69000,d,57270,57,15999
+Toyota,rav 4,04-2010,Boîte manuelle,202000,d,42700,42,6990
+Fiat,500l,09-2019,Boîte manuelle,58168,b,75002,75,9500
+Ford,ecosport,04-2018,Boîte manuelle,103400,d,06670,06,9990
+Tesla,model x,09-2018,Boîte automatique,142000,e,13008,13,31900
+Volkswagen,tiguan,09-2023,Boîte automatique,45000,b,94500,94,25900
+Seat,toledo,01-2014,Boîte manuelle,161189,d,75002,75,6190
+Citroen,c3 aircross,06-2020,Boîte manuelle,66900,b,93220,93,9890
+Skoda,fabia,11-2018,Boîte manuelle,47000,b,30132,30,10490
+Renault,kadjar,02-2018,Boîte automatique,74500,d,03110,03,15490
+Bmw,420,03-2017,Boîte automatique,147407,d,59910,59,19990
+Peugeot,3008,02-2017,Boîte manuelle,104058,b,92130,92,11990
+Volkswagen,polo,06-2011,Boîte automatique,132307,b,59930,59,8990
+Mercedes-benz,e 220,07-2011,Boîte automatique,137800,d,93370,93,11990
+Opel,corsa,06-2017,Boîte manuelle,90760,b,88130,88,6990
+Kia,stonic,09-2022,Boîte manuelle,20000,b,13127,13,15990
+Nissan,qashqai,08-2014,Boîte manuelle,136304,b,92130,92,9590
+Renault,kangoo,08-2011,Boîte manuelle,218200,d,54425,54,4990
+Peugeot,3008,02-2016,Boîte manuelle,162253,d,72650,72,12490
+Mitsubishi,asx,10-2013,Boîte manuelle,18916,b,28630,28,11390
+Mini,one,11-2022,Boîte automatique,24936,2,72650,72,16896
+Peugeot,2008,03-2022,Boîte manuelle,49317,b,83210,83,13980
+Mercedes-benz,b 200,06-2017,Boîte manuelle,154358,d,57175,57,13490
+Renault,clio,11-2019,Boîte manuelle,60711,d,28630,28,9290
+Peugeot,308,06-2010,Boîte manuelle,156497,d,59930,59,6490
+Citroen,c4,06-2016,Boîte automatique,107000,b,63170,63,7490
+Lexus,ct 200h,11-2018,Boîte automatique,117000,2,59223,59,15990
+Volkswagen,polo,06-2010,Boîte automatique,234090,d,44000,44,5490
+Renault,clio,01-2020,Boîte manuelle,87900,d,93230,93,10900
+Citroen,c4 aircross,05-2013,Boîte manuelle,176548,d,13740,13,7990
+Peugeot,308,02-2022,Boîte automatique,58369,b,69300,69,16990
+Renault,clio,06-2020,Boîte manuelle,83648,b,38150,38,10990
+Mercedes-benz,unknown,07-2015,Boîte automatique,99700,b,67140,67,18890
+Hyundai,bayon,07-2021,Boîte manuelle,44572,2,10150,10,13500
+Volkswagen,tiguan,08-2018,Boîte automatique,124525,d,95520,95,18950
+Peugeot,3008,01-2019,Boîte manuelle,104249,b,23000,23,12990
+Dacia,duster,08-2011,Boîte manuelle,98400,d,15130,15,11990
+Chevrolet,spark,12-2010,Boîte manuelle,132000,b,42100,42,2990
+Renault,espace,07-2017,Boîte automatique,135490,d,67800,67,14490
+Bentley,continental gt,09-2016,Boîte automatique,33500,b,98000,98,82900
+Nissan,murano,10-2015,Boîte automatique,99900,b,54700,54,16490
+Ford,focus,08-2019,Boîte automatique,76900,b,38660,38,14990
+Mazda,cx-5,10-2018,Boîte automatique,148659,d,75002,75,15290
+Seat,ibiza,08-2020,Boîte manuelle,86425,b,28630,28,11990
+Peugeot,206,02-2005,Boîte manuelle,54000,b,69780,69,5500
+Volkswagen,tiguan,07-2022,Boîte automatique,71900,d,93220,93,26900
+Mazda,cx-5,10-2018,Boîte automatique,148659,d,75002,75,15290
+Seat,ibiza,08-2020,Boîte manuelle,86425,b,28630,28,11990
+Peugeot,206,02-2005,Boîte manuelle,54000,b,69780,69,5500
+Volkswagen,tiguan,07-2022,Boîte automatique,71900,d,93220,93,26900
+Citroen,grand c4 picasso,01-2018,Boîte manuelle,194000,d,50190,50,8490
+Audi,q3,06-2020,Boîte automatique,71490,b,06510,06,29990
+Mercedes-benz,a 160,09-2016,Boîte manuelle,104500,b,06200,06,12990
+Mitsubishi,eclipse cross,06-2022,Boîte automatique,82070,2,23000,23,20490
+Tesla,model s,03-2016,Boîte automatique,118000,e,59250,59,24990
+Peugeot,5008,01-2021,Boîte automatique,123000,d,93150,93,17900
+Mercedes-benz,gla 220,09-2015,Boîte automatique,186525,d,33140,33,15990
+Citroen,c4,12-2012,Boîte automatique,166976,d,42700,42,5990
+Citroen,c3 aircross,07-2020,Boîte manuelle,36343,b,92130,92,12590
+Peugeot,208,05-2024,Boîte manuelle,7678,b,13127,13,15890
+Peugeot,208,03-2018,Boîte manuelle,99000,b,63170,63,6990
+Peugeot,508,05-2020,Boîte automatique,97786,d,75002,75,16150
+Renault,twingo,05-2004,Boîte manuelle,118122,b,59320,59,3600
+Peugeot,308,08-2015,Boîte manuelle,133000,d,06400,06,8490
+Suzuki,sx4,05-2007,Boîte manuelle,69915,d,77144,77,6990
+Volkswagen,touran,06-2003,Boîte manuelle,215000,d,95360,95,2990
